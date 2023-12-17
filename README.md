@@ -1,2 +1,9 @@
 # freeCodeCamp
-Python projects for Scientific Computing Certification.
+Scientific Computing with Python Projects
+## Include
+- Arithmetic Formatter
+- Time Calculator
+- Budget App
+- Polygon Area Calculator
+- Probability Calculator
+
